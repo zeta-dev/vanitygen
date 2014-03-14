@@ -1401,10 +1401,10 @@ vg_prefix_context_add_patterns(vg_context_t *vcp,
 			ats = "namecoin";
 			bw = "\"M\" or \"N\"";
 			break;
-    		/*case 80:
+    case 80:
 			ats = "zetacoin";
 			bw = "\"Z\"";
-			break;*/
+			break;
 		default:
 			break;
 		}
